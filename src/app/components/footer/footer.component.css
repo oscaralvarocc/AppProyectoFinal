@@ -1,0 +1,17 @@
+.footer {
+    background-color: #092e53; /* bg-dark */
+    padding: 20px;
+  }
+  
+  .footer .text-white {
+    color: #fff;
+  }
+  
+  .footer .text-center {
+    text-align: center;
+  }
+  
+  .footer p {
+    margin: 0;
+  }
+  
